@@ -1,0 +1,9 @@
+{
+  "name": "Proyecto",
+  "displayName": "Proyecto"
+},
+{
+  "expo": {
+    "sdkVersion": "29.0.0"
+  }
+}
